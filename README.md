@@ -1,6 +1,5 @@
 Acest proiect reprezintă o simulare interactivă a unui sistem feroviar complex, dezvoltat în C++ utilizând API-ul OpenGL. Accentul cade pe modelarea ierarhică a obiectelor, animația bazată pe noduri și un sistem de cameră custom.
 <img width="2000" height="1000" alt="Screenshot 2026-03-02 101728" src="https://github.com/user-attachments/assets/a18b2f66-efa5-497e-8065-d0764eaa7647" />
-<img width="2000" height="937" alt="Screenshot 2026-03-02 103139" src="https://github.com/user-attachments/assets/e6fd4eba-997c-4afc-ab83-092ddb5f3b4a" />
 
 ## Funcționalități Principale
 
@@ -19,6 +18,9 @@ Sistemul de vizualizare (`lab_camera.h`) suportă moduri de navigare dinamice:
 ### Mediu Procedural și Intersecții
 * **Adaptare la Teren**: Sistemul generează automat **poduri** peste apă, **tuneluri** prin munți și **șine standard** pe câmpie.
 * **Logica Intersecțiilor**: Utilizatorul poate preselecta direcția de deplasare, trenul alegând automat ramificația corespunzătoare la atingerea nodului de tip intersecție.
+
+  ![joc2](https://github.com/user-attachments/assets/d853a28b-1e77-4bde-9334-0c6d51c313f1)
+
 
 * ## Controale
 

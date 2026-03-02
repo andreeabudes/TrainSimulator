@@ -1,4 +1,7 @@
 Acest proiect reprezintă o simulare interactivă a unui sistem feroviar complex, dezvoltat în C++ utilizând API-ul OpenGL. Accentul cade pe modelarea ierarhică a obiectelor, animația bazată pe noduri și un sistem de cameră custom.
+<img width="2236" height="1269" alt="Screenshot 2026-03-02 101728" src="https://github.com/user-attachments/assets/a18b2f66-efa5-497e-8065-d0764eaa7647" />
+
+<img width="2232" height="1284" alt="Screenshot 2026-03-02 101921" src="https://github.com/user-attachments/assets/5d3f2fac-f655-4ec8-8aa4-b6a87eb2753c" />
 
 ## Funcționalități Principale
 
